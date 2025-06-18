@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Fuka
+## 👋 Introducing Myself
 ![Image](https://github.com/user-attachments/assets/d2ff145a-0756-467b-9cf8-62b51f76343a)
 
 🎓 Bachelor Degree in Data Science  
@@ -12,7 +12,7 @@
 - SQL
 - Excel VBA
 
-### 📊 Data Visualization skill
+### 📊 Data Visualization Skill
 - PowerBI
   
 ### 📚 Projects
